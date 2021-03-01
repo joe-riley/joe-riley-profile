@@ -1,3 +1,9 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Joe Riley Profile
 
 ## Description
@@ -34,7 +40,7 @@ yarn test
 
 ## Questions
 
-* Who is the project owner? [joe-riley](https://github.com/[template_github_user)/]
+* Who is the project owner? [joe-riley](https://github.com/).
 
 * How can the owner be contacted? <rileyjoseph@gmail.com>
  
